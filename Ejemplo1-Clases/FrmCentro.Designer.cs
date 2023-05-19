@@ -157,7 +157,7 @@
             this.ClientSize = new System.Drawing.Size(584, 420);
             this.Controls.Add(this.groupBox1);
             this.Name = "FrmCentro";
-            this.Text = "FrmCentro";
+            this.Text = "Agregar Centro";
             this.Load += new System.EventHandler(this.FrmCentro_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
