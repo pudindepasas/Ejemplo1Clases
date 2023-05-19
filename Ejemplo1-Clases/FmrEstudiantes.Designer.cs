@@ -212,7 +212,7 @@
             this.ClientSize = new System.Drawing.Size(584, 491);
             this.Controls.Add(this.groupBox1);
             this.Name = "FmrEstudiantes";
-            this.Text = "FmrEstudiantes";
+            this.Text = "Agregar Estudiantes";
             this.Load += new System.EventHandler(this.FmrEstudiantes_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();

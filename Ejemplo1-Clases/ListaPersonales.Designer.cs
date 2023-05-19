@@ -73,6 +73,7 @@
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.groupBox1);
             this.Name = "ListaPersonales";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Personales";
             this.Load += new System.EventHandler(this.ListaPersonales_Load);
             this.groupBox1.ResumeLayout(false);

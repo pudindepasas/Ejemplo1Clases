@@ -48,6 +48,8 @@ namespace Ejemplo1_Clases
             textuni.Text = "";
             textcat.Text = "";
             textid.Text = "";
+
+
         }
 
         private void button2_Click(object sender, EventArgs e)

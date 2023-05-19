@@ -25,6 +25,7 @@ namespace Ejemplo1_Clases
         private void ListaPersonales_Load(object sender, EventArgs e)
         {
             dataGridView1.DataSource = Datos.Personanles;
+
         }
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
